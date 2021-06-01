@@ -99,12 +99,4 @@ header ul li a
     background: rgb(238, 223, 155);
     clip-path: circle(650px at right 800px)
 }
-.boxContainer
-{
-    margin: auto;
-    margin-top: 20%;
-    position: relative;
-    width: 300px;
-    height: 42px
-}
-    
+
