@@ -101,9 +101,10 @@ header ul li a
 }
 .boxContainer
 {
-    margin= auto;
-    margin-top= 20%;
-    position= relative;
-    
+    margin: auto;
+    margin-top: 20%;
+    position: relative;
+    width: 300px;
+    height: 42px
     
     
